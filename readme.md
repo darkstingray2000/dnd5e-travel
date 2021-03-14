@@ -1,4 +1,4 @@
-Travel tool for D&D 5e by Corbi.
+Travel tool for D&D 5e by Crobi.
 ----------------------
 Testing some minor edits on a fork as I'm new to GitHub and don't want to screw over Corbi's code.
 
